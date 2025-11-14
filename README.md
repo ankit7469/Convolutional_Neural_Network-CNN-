@@ -1,4 +1,4 @@
-# 📸 Convolutional Neural Network (CNN) — Image Classification (TensorFlow/Keras)
+#  Convolutional Neural Network (CNN) — Image Classification (TensorFlow/Keras)
 
 This project demonstrates a **Convolutional Neural Network (CNN)** built using **TensorFlow & Keras**  
 to classify images from the **CIFAR-10 dataset**.  
